@@ -5,10 +5,15 @@ body {
     color: #333;
 }
 
+.logo {
+    width: 100%;
+    max-width: 420px;
+}
+
 header.hero-section {
     position: relative;
     height: 100vh;
-    color: #efefef;
+    color: #fafafa;
 }
 
 header .hero-background {
